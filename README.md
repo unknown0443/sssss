@@ -24,7 +24,6 @@
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Bing](https://img.shields.io/badge/Bing-258FFA?style=for-the-badge&logo=microsoftbing&logoColor=white)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-000000?style=for-the-badge)
 ![pytube](https://img.shields.io/badge/pytube-E60012?style=for-the-badge)
 
