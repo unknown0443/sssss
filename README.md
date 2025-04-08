@@ -18,7 +18,7 @@
 ![PIL](https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![albumentations](https://img.shields.io/badge/albumentations-FFC107?style=for-the-badge)
 ![tqdm](https://img.shields.io/badge/tqdm-003366?style=for-the-badge)
-
+![BLIP](https://img.shields.io/badge/BLIP-FFB74D?style=for-the-badge)
 
 ## 🌐 API & External Services
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
