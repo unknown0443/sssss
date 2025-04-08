@@ -1,29 +1,38 @@
-🥇 ① Language & Backend
+# 🚀 Stacks
 
+## 🖥️ Language & Backend(Server)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask-CORS](https://img.shields.io/badge/Flask--CORS-000000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![psycopg2](https://img.shields.io/badge/psycopg2-336791?style=for-the-badge)
 
 
-🧠 ② Data Science / ML
-
-![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge&logo=YOLO&logoColor=white)
+## 🧠 Data Science / ML
+![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
 ![ArcFace](https://img.shields.io/badge/ArcFace-red?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence_Transformers-0055ff?style=for-the-badge)
-![Torch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Torch](https://img.shields.io/badge/Torch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![PIL](https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![albumentations](https://img.shields.io/badge/albumentations-FFC107?style=for-the-badge)
+![tqdm](https://img.shields.io/badge/tqdm-003366?style=for-the-badge)
 
-🌐 ③ API & External Services
 
+## 🌐 API & External Services
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Bing](https://img.shields.io/badge/Bing-258FFA?style=for-the-badge&logo=microsoftbing&logoColor=white)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-000000?style=for-the-badge)
+![pytube](https://img.shields.io/badge/pytube-E60012?style=for-the-badge)
 
-🧰 Dev Tools
 
+## 🛠️ Dev Tools
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![venv](https://img.shields.io/badge/venv-3c3c3c?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![venv](https://img.shields.io/badge/venv-3c3c3c?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
