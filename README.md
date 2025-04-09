@@ -9,11 +9,10 @@
 
 
 ## 🧠 Data Science / ML
-![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
 ![ArcFace](https://img.shields.io/badge/ArcFace-red?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Sentence-Transformers](https://img.shields.io/badge/Sentence_Transformers-0055ff?style=for-the-badge)<br>
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Sentence-Transformers](https://img.shields.io/badge/Sentence_Transformers-0055ff?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)<br>
 ![Torch](https://img.shields.io/badge/Torch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PIL](https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![albumentations](https://img.shields.io/badge/albumentations-FFC107?style=for-the-badge)
